@@ -1,0 +1,4 @@
+{1:[['Breakfast',1500],['Lunch',500,800],['Dinner',1500,2000],['Snacks',250],['Tea/Coffee',200]],
+2:[['Breakfast',2000],['Lunch',1000,1500],['Dinner',2000,2500],['Snacks',300],['Tea/Coffee',250]],
+3:[['Breakfast',2500],['Lunch',1500,2000],['Dinner',2500,3000],['Snacks',350],['Tea/Coffee',300]],
+4:[['Breakfast',2500],['Lunch',2000,2500],['Dinner',3000,3500],['Snacks',300],['Tea/Coffee',350]]}
